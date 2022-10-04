@@ -1,0 +1,13 @@
+C:\Users\Maxim\source\repos\Laboratory\Laboratory\x64\Debug\Laboratory.vcxproj.AssemblyReference.cache
+C:\Users\Maxim\source\repos\Laboratory\Laboratory\x64\Debug\Laboratory.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Maxim\source\repos\Laboratory\Laboratory\x64\Debug\Laboratory.Lobby.resources
+C:\Users\Maxim\source\repos\Laboratory\Laboratory\x64\Debug\Laboratory.MyForm.resources
+C:\Users\Maxim\source\repos\Laboratory\Laboratory\x64\Debug\Laboratory.vcxproj.GenerateResource.cache
+C:\Users\Maxim\source\repos\Laboratory\Laboratory\x64\Debug\Laboratory.vcxproj.CopyComplete
+C:\Users\Maxim\source\repos\Laboratory\Laboratory\x64\Debug\Laboratory.Lab2.resources
+C:\Users\Maxim\source\repos\Laboratory\Laboratory\x64\Debug\Laboratory.Lab3.resources
+C:\Users\Maxim\source\repos\Laboratory\Laboratory\x64\Debug\Laboratory.Lab4.resources
+C:\Users\Maxim\source\repos\Laboratory\Laboratory\x64\Debug\Laboratory.Lab5.resources
+C:\Users\Maxim\source\repos\Laboratory\Laboratory\x64\Debug\Laboratory.Lab6.resources
+C:\Users\Maxim\source\repos\Laboratory\Laboratory\x64\Debug\Laboratory.Lab7.resources
+C:\Users\Maxim\source\repos\Laboratory\Laboratory\x64\Debug\Laboratory.Pr.resources
